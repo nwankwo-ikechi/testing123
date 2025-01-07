@@ -1,8 +1,16 @@
-# testing123
+# Testing123
 
-## Created this file to practice creating a new repo and adding new files to
-## to get pushed to GitHub host. 
+## Purpose
+This file was created to practice:
+- Creating a new repository
+- Adding new files
+- Pushing changes to a GitHub repository
 
-For future directions on how to use your app.
-For technologies used in app. 
-If your participating in competetions or other opensource projects this is for directions on how to contibute to open source (OS)
+## Future Directions
+- **Usage Instructions**: Provide clear steps on how to use your application.
+- **Technologies Used**: Document the tools, frameworks, and libraries used in the project.
+
+## Open Source Contribution
+If participating in competitions or other open-source projects, include:
+- Directions on how to contribute to the project.
+- Guidelines for collaboration and code submissions.
