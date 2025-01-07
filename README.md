@@ -3,8 +3,9 @@
 ## Purpose
 This file was created to practice:
 - Creating a new repository
-- Adding new files
-- Pushing changes to a GitHub repository
+- Writing in Markdown using text editor
+- Adding new files into staging area from Git
+- Pushing changes to current GitHub repository
 
 ## Future Directions
 - **Usage Instructions**: Provide clear steps on how to use your application.
