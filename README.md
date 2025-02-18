@@ -3,9 +3,9 @@
 ## Purpose
 This file was created to practice:
 - Creating a new repository
-- Writing in Markdown using text editor
+- Writing in Markdown using text editor (I'm using VS Code)
 - Adding new files into staging area from Git
-- Pushing changes to current GitHub repository
+- Pushing changes to current GitHub repository (hosted on GitHub)
 
 ## Future Directions
 - **Usage Instructions**: Provide clear steps on how to use your application.
